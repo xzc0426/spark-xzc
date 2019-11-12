@@ -1,10 +1,10 @@
 /target
 !.mvn/wrapper/maven-wrapper.jar
 /workspace.xml
-/.git
-/.project
-/.classpath
-/*.eml
+*.git
+*.project
+*.classpath
+*.eml
 
 
 
