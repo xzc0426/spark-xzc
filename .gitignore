@@ -1,11 +1,12 @@
-*/target/*
+/target/*
 !.mvn/wrapper/maven-wrapper.jar
+### Compiled class file
 /workspace.xml
 *.git
 *.project
 *.classpath
 *.eml
-
+*.class
 
 
 ### STS ###
