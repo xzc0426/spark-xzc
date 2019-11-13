@@ -9,11 +9,11 @@ import org.apache.spark.streaming.dstream.{DStream, ReceiverInputDStream}
 import org.apache.spark.streaming.{Seconds, StreamingContext, StreamingContextState}
 
 /**
-  * SparkStreaming08_Stop
-  *
-  * @author xzc
-  * @date 2019/11/12
-  */
+ * SparkStreaming08_Stop
+ *
+ * @author xzc
+ * @date 2019/11/12
+ */
 object SparkStreaming_Stop {
 
   def main(args: Array[String]): Unit = {
